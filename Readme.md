@@ -38,9 +38,9 @@ This project demonstrates the creation of an **AWS CodePipeline** using **Terraf
 
 ---
 
-## **Architecture Diagram**
+<!--## **Architecture Diagram**
 ![Architecture image](image.png)
-
+-->
 ---
 
 ## **How to Run the Project**
