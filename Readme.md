@@ -34,7 +34,7 @@ This project demonstrates the creation of an **AWS CodePipeline** using **Terraf
 - **AWS CodeBuild** – Builds and tests the Terraform code.
 - **AWS S3** – Stores Terraform state files and artifacts.
 - **AWS IAM** – Manages permissions and roles for secure pipeline execution.
-- **AWS CloudWatch** – Provides logging and monitoring for pipeline activities.
+- **AWS CloudWatch** – Provides logging and monitoring for pipeline activities. 
 
 ---
 
